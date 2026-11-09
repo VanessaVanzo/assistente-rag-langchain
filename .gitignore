@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados Neo4j
+neo4j/data/
+neo4j/logs/
+
+# Material do curso
+documentos/
